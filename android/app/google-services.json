@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "941692770770",
+    "firebase_url": "https://gamersgram-478a4.firebaseio.com",
+    "project_id": "gamersgram-478a4",
+    "storage_bucket": "gamersgram-478a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941692770770:android:85821a48ab7475bdcdd00b",
+        "android_client_info": {
+          "package_name": "com.gamersgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941692770770-1o87lo12ffdmtah82pkg6b8pesbc0f5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gamersgram",
+            "certificate_hash": "46b1ef78e20f1aff6db11b58814e79a8182d2de8"
+          }
+        },
+        {
+          "client_id": "941692770770-cgkpsfseeai30vk8oti7rl416pp5i0i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2qWGrGVGjxXDG-GBoD_HCWbyZ-AdBFSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941692770770-cgkpsfseeai30vk8oti7rl416pp5i0i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
